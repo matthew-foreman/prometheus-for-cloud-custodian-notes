@@ -1,0 +1,1 @@
+These are notes i've taken in obsidian about Prometheus while considering using it to get observability into the cloud custodian deployment on our onprem Kubernetes cluster.  Consult the [Index](./Index) for further details.

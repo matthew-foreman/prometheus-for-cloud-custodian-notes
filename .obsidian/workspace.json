@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prometheus Index.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prometheus Index"
+              "title": "Index"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prometheus Index.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prometheus Index"
+              "title": "Index"
             }
           },
           {
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Custodian Implementation.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cloud Custodian Implementation"
+              "title": "Index"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Custodian Implementation.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cloud Custodian Implementation"
+              "title": "Backlinks for Index"
             }
           },
           {
@@ -170,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Custodian Implementation.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Cloud Custodian Implementation"
+              "title": "Outgoing links from Index"
             }
           },
           {
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Custodian Implementation.md",
+                "file": "Index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cloud Custodian Implementation"
+              "title": "Outline of Index"
             }
           }
         ]
@@ -227,11 +227,12 @@
   },
   "active": "92a4f892bd99d8a4",
   "lastOpenFiles": [
-    "Extra Bits.md",
-    "Cloud Custodian Implementation.md",
+    "README.md",
+    "Index.md",
     "Feature Flags.md",
+    "Cloud Custodian Implementation.md",
+    "Extra Bits.md",
     "Data Model.md",
-    "Prometheus Index.md",
     "Untitled"
   ]
 }
