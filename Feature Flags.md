@@ -11,6 +11,6 @@ This is a non-exhaustive list of [feature flags](https://prometheus.io/docs/prom
 - --enable-feature=exemplar-storage
 - exemplars are references to data outside of the metric set (ex: jaeger-trace-id)
 - a fixed size circular buffer in memory for all series.
-- exemplars will also be appended to WAL for local persistence. (for WAL duration)
+- exemplars will also be appended to the Write Ahead Log for local persistence. (for WAL duration)
 - uses a config file block storage/exemplars to control the memory size by the number of exemplars
 - size of the exemplar depends on which type it is
